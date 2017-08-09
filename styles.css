@@ -1,0 +1,24 @@
+html, body{
+    height: 100%;
+    width: 90%;
+    margin: 20;
+    padding: 20;
+}
+
+.flexcontainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+     justify-content: center;
+}
+
+.container{
+    width: 80%;
+}
+
+.left{
+    width: 10%;
+}
+.right{
+    width: 10%;
+}

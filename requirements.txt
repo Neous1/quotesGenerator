@@ -1,0 +1,7 @@
+let's build a random quote machine
+
+we'll create a page to provide random quotes allegedly said by the Buddha.
+
+present the user with a page with a quote and a button to obtain anoher quote, generated randomly.
+
+
